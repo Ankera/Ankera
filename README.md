@@ -1,20 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋
-
-### Hi there 👋
-
-### Hi there 👋
-
-### Hi there 👋
-
-### Hi there 👋
-
-### Hi there 👋
-
-### Hi there 👋
-
-### Hi there 👋
+### 欢饮您来到我的GITHUB 👋👋👋
 <!--
 **Ankera/Ankera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
